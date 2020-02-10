@@ -1,1 +1,3 @@
-# gmo
+# maven-project
+
+Simple Maven Project
